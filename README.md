@@ -23,4 +23,4 @@ Team details:
 1. Gustav Cedergrund  | @cedergrund
 2. Will Dravenstott   | @wdrav
 3. Jaden Feldman      | @jadennedaj
-4. Andrew Connell     | @AC1937
+4. Andrew Connell     | @AC1937 
