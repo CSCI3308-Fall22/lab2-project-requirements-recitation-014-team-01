@@ -1,0 +1,29 @@
+# We include .env in version control for demonstration and template purposes 
+# only. For real use cases, never commit this to version control.
+# .env
+
+################################################################################
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.tags
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# System Files
+.DS_Store
+Thumbs.d
+
+# dependencies
+node_modules/
