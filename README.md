@@ -25,3 +25,5 @@ Team details:
 2. Will Dravenstott   | @wdrav
 3. Jaden Feldman      | @jadennedaj
 4. Andrew Connell     | @AC1937 
+
+Our project was very fun and discriptive 
