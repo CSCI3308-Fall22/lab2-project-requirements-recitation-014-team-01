@@ -18,6 +18,7 @@ git commit -m "updated Readme.md with team details"
 git push
 ```
 
+Jaden Feldman
 Andrew Connell
 Will Dravenstott
 Some change
