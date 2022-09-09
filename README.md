@@ -18,9 +18,14 @@ git commit -m "updated Readme.md with team details"
 git push
 ```
 
+
+Gustav Cedergrund Will Dravenstott
+
+
 Jaden Feldman
 Andrew Connell
 Will Dravenstott
+
 Some change
 Team details:
 
@@ -29,6 +34,9 @@ Team details:
 3. Jaden Feldman      | @jadennedaj
 4. Andrew Connell     | @AC1937 
 
+
+
+Our project was very fun and discriptive. Our project got lots of traffic. Many people want to use our project. Our project TBD.
 
 Our project got lots of traffic. Many people want to use our project. Our project TBD.
 
