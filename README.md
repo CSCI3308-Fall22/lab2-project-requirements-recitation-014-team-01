@@ -17,10 +17,7 @@ git add .
 git commit -m "updated Readme.md with team details"
 git push
 ```
-
-Project Team Members:
 Andrew Connell
-
 Team details:
 
 1. Gustav Cedergrund  | @cedergrund
