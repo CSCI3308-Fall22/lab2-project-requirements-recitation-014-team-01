@@ -17,6 +17,8 @@ git add .
 git commit -m "updated Readme.md with team details"
 git push
 ```
+
+Andrew Connell
 Will Dravenstott
 Some change
 Team details:
@@ -28,3 +30,5 @@ Team details:
 
 
 Our project got lots of traffic. Many people want to use our project. Our project TBD.
+
+I agree with Gus.
